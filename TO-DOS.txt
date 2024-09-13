@@ -1,0 +1,2 @@
+- pedir relatorio da ultima entrega
+- perguntar oq a fernanda fez com os NaN
